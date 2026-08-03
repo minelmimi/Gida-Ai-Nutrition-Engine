@@ -12,4 +12,4 @@ An end-to-end C# application built with .NET 8 that demonstrates AI integration 
 - **Framework:** .NET 8.0
 - **Concepts:** Object-Oriented Programming (OOP), Async/Await, Clean Code Principles
 ## 📸 App Demo / Console Output
-![Console Screenshot](ekran_goruntusu_adiniz.png)
+<img width="1920" height="884" alt="Ekran Görüntüsü (877)" src="https://github.com/user-attachments/assets/33a99970-dc07-43e7-8c1f-9f3d5f3e66c9" />
